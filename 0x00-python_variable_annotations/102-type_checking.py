@@ -22,7 +22,7 @@
 """
 
 
-from typing import Tuple, List
+from typing import Tuple, List, Any
 
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
